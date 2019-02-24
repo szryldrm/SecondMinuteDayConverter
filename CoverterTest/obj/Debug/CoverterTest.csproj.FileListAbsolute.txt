@@ -1,0 +1,18 @@
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\CoverterTest.dll
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\CoverterTest.pdb
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\nunit.framework.dll
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\nunit.framework.xml
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\obj\Debug\CoverterTest.csprojResolveAssemblyReference.cache
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\obj\Debug\CoverterTest.dll
+C:\Users\SezerYildirim\documents\visual studio 2015\Projects\SecondMinuteDayConverter\CoverterTest\obj\Debug\CoverterTest.pdb
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\CoverterTest.dll
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\CoverterTest.pdb
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\nunit.framework.xml
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\bin\Debug\tr\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\obj\Debug\CoverterTest.csprojResolveAssemblyReference.cache
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\obj\Debug\CoverterTest.csproj.CoreCompileInputs.cache
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\obj\Debug\CoverterTest.dll
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\CoverterTest\obj\Debug\CoverterTest.pdb

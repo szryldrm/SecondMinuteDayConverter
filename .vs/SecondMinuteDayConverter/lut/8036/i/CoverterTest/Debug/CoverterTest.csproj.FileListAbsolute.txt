@@ -1,0 +1,2 @@
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\.vs\SecondMinuteDayConverter\lut\0\i\CoverterTest\Debug\CoverterTest.csprojResolveAssemblyReference.cache
+F:\16.07.2017 Bootcamp Yedek\Visual Studio 2017\Projects\SecondMinuteDayConverter\.vs\SecondMinuteDayConverter\lut\0\i\CoverterTest\Debug\CoverterTest.csproj.CoreCompileInputs.cache
